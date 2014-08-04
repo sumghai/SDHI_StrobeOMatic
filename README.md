@@ -1,5 +1,5 @@
 # SDHI Strobe-O-Matic Rotator Warning Lights (no release yet)
-Parts pack for Kerbal Space Program, consisting of rotating warning lights in various colors.
+(Upcoming) Parts pack for Kerbal Space Program, consisting of rotating warning lights in various colors.
 
 **Author:** Robin "sumghai" Chang (grnlead@hotmail.com)
 
