@@ -4,4 +4,4 @@ This parts pack is licenced under [Creative Commons Attribution-ShareAlike 4.0 I
 
 - You may remix your own derivatives (new models, alternative textures), and release them under your own name
 
-- You must credit **Robin "sumghai" Chang (author, Sum Dum Heavy Industries Strobe-O-Matic Rotator Warning Lights)** when publishing your derivatives in the download and forum posts
+- You must credit **Robin "sumghai" Chang (author, Sum Dum Heavy Industries Strobe-O-Matic Warning Rotator Lights)** when publishing your derivatives in the download and forum posts
