@@ -1,6 +1,6 @@
 Sum Dum Heavy Industries Strobe-O-Matic Warning Rotator Light - Mod Parts Pack
 
-Version:	1.0-BETA	(KSP 1.0.5)
+Version:	1.0-BETA-2	(KSP 1.0.5 & 1.1 prerelease)
 
 Author: 	Robin "sumghai" Chang	sumdumghai@gmail.com
 
@@ -37,6 +37,18 @@ If you have other SDHI part packs you wish to keep, just remove the Strobe-O-Mat
 
 
 ===Release Notes===
+
+
+1.0-BETA-2 - 8 April 2016
+---------------------------
+
+Features:
+ - Second (beta) release
+ - Five standard industrial warning colors (amber, blue, green, red and white)
+ - Low ElectricCharge consumption (36 EC/hour; values not final)
+ - Automatic shutoff on ElectricCharge depletion
+ - Toggleable via Action Groups
+ - No plugins required; only uses stock ModuleLight
 
 
 1.0-BETA - 17 January 2016
