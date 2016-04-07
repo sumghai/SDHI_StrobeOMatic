@@ -26,7 +26,7 @@ The parts should then be located under the SDHI/Strobe-O-Matic folder
 
  - Lights can be surface-mounted to any surface
 
- - Switch the lights on and off by using the part's right-click context menu in the flight scene, or assigning the Activate Strobe / Deactivate Strobe actions to the desired Action Groups
+ - Switch the lights on and off by using the part's right-click context menu in the flight scene, or toggling the Lights Action Group
 
 
 ===Uninstallation Instructions===
@@ -42,13 +42,14 @@ If you have other SDHI part packs you wish to keep, just remove the Strobe-O-Mat
 1.0-BETA-2 - 8 April 2016
 ---------------------------
 
-Features:
+Changes / Fixes:
  - Second (beta) release
- - Five standard industrial warning colors (amber, blue, green, red and white)
- - Low ElectricCharge consumption (36 EC/hour; values not final)
- - Automatic shutoff on ElectricCharge depletion
- - Toggleable via Action Groups
- - No plugins required; only uses stock ModuleLight
+ - Re-implemented toggling and looping behaviour using stock ModuleLight
+ - Strobes now automatically shut off on ElectricCharge depletion
+ 
+Bugs/Known Issues:
+ - Strobe model center of origin and surface attachment behavior needs tweaking
+ - Part search tags are missing
 
 
 1.0-BETA - 17 January 2016
@@ -62,6 +63,5 @@ Features:
  - No plugins required; only uses stock PartModules for looped animations and resource consumption
 
 Bugs/Known Issues:
-
  - Lights keep spinning even when ElectricCharge has been depleted
     
