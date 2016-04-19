@@ -43,6 +43,7 @@ If you have other SDHI part packs you wish to keep, just remove the Strobe-O-Mat
 
 Features:
  - Five standard industrial warning colors (amber, blue, green, red and white)
+ - Surface or stack-attachable
  - Low ElectricCharge consumption (36 EC/hour) and automatic shut-off on depletion
  - Toggleable via Action Groups
  - No plugins required; only uses stock PartModules for looped animations and resource consumption
