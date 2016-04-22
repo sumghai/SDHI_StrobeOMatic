@@ -1,4 +1,4 @@
-Sum Dum Heavy Industries Strobe-O-Matic Warning Rotator Light - Mod Parts Pack
+Sum Dum Heavy Industries Strobe-O-Matic Warning Rotator Lights - Mod Parts Pack
 
 Version:	1.0	(KSP 1.1)
 
