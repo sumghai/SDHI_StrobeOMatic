@@ -1,6 +1,6 @@
 Sum Dum Heavy Industries Strobe-O-Matic Warning Rotator Lights - Mod Parts Pack
 
-Version:	1.0	(KSP 1.1)
+Version:	1.0.1	(KSP 1.4.5)
 
 Author: 	Robin "sumghai" Chang	sumdumghai@gmail.com
 
@@ -37,6 +37,16 @@ If you have other SDHI part packs you wish to keep, just remove the Strobe-O-Mat
 
 
 ===Release Notes===
+
+1.0.1 - 29 August 2018
+---------------------------
+
+Changes / Fixes:
+ - Compatibility Patch for KSP 1.4.5
+ - Reoriented strobe base model so that decorative label faces the right way in the VAB/SPH Parts List thumbnails
+ - Localization support added
+     - en-us included by default
+
 
 1.0 - 23 April 2016
 ---------------------------
